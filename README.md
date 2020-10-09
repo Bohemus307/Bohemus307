@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ### My name is Joshua Scott Oxner
+[![Website Badge](https://img.shields.io/badge/-joshuascottoxner.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](http://www.joshuascottoxner.com)
 ### My favorite thing to do is dropkick code 
 ![Double Dragon Dropkick](/images/dd_kick_pic.jpg)
 
@@ -30,7 +31,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohemus307&theme=<THEME_NAME>" />
 
 ####  Contact Me :speech_balloon:
-[![Website Badge](https://img.shields.io/badge/-joshuascottoxner.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](http://www.joshuascottoxner.com)
 [![Linkedin Badge](https://img.shields.io/badge/-joshuaoxner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/joshuaoxner) [![Gmail Badge](https://img.shields.io/badge/powerofsilence307@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:powerofsilence307@gmail.com)
 <br/>
 
