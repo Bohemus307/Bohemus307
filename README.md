@@ -1,6 +1,11 @@
-### Hi there 👋 My name is Joshua and my favorite thing to do is dropkick code all day long 
+### Hi there 👋 My name is Joshua
+### my favorite thing to do is dropkick code all day long 
 ![Double Dragon Dropkick](/images/dd_kick_pic.jpg)
 
+### Im currently building several projects focusing on the Controlled Enviroment Agriculture industry
+### I cant get enough programming especially Javascript and really enjoy Dev Ops which keeps me building new projects to play with deployment architectures. Im always lookign for new projects to contribute to and love having company with my own projects. Just reach out and lets learn some new skills together.
+
+![Best Team Ever](/images/Earthboundteam.jpg)
 
 
 
