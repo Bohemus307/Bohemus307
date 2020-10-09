@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Joshua and my favorite thing to do is dropkick code all day long 
-![Double Dragon Dropkick](/images/logo.png)
+![Double Dragon Dropkick](/images/dd_kick_pic.jpg)
 
 
 
