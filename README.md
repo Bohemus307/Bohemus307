@@ -4,8 +4,6 @@
 ### My favorite thing to do is dropkick code 
 ![Double Dragon Dropkick](/images/dd_kick_pic.jpg)
 
-### I am currently a Full Stack Developer at Stone and Sage where I build applications and micro-services for clients in many different industries. Primarily using Javascript but i love to dive into a new language and dig up the best practices for application and micro-service construction in a new framework or library.
-
 #### "As for these strange visions, I don’t pay as much thought to them anymore. I have wires to point, questions to ask, and functions to call. I better get to it!" - Dan Abramov
 
 #### Languages and Tools:
