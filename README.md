@@ -17,9 +17,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/db.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/linux.png"></code>
 
-<br />
-<br/>
-
 ####  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-joshuaoxner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/joshuaoxner) [![Gmail Badge](https://img.shields.io/badge/powerofsilence307@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:powerofsilence307@gmail.com)
 <br/>
