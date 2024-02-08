@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name is Joshua Scott Oxner
 [![Website Badge](https://img.shields.io/badge/-joshuascottoxner.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](http://www.joshuascottoxner.com)
-### My favorite thing to do is dropkick code 
+### My favorite thing to do is dropkick code blockers! 
 ![Double Dragon Dropkick](/images/dd_kick_pic.jpg)
 
 ### "As for these strange visions, I don’t pay as much thought to them anymore. I have wires to point, questions to ask, and functions to call. I better get to it!" - Dan Abramov
